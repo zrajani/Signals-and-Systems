@@ -1,4 +1,6 @@
-%Convolution of Equal Sequence length 
+% Program Description: Convolution of Equal Sequence length 
+
+% Program Intialisation
 clear all;
 close all;
 clc;

@@ -1,5 +1,11 @@
 % Audio Signal Discrete Fourier Transform
 
+%Description: Peform Discrete Fourier Tranform and Inverse Discrete Fourier Transform on Audio Signal
+
+% Bird chirp signal in built in MATLAB is used 
+
+%Initialize the screen 
+
 clear all;
 close all;
 clc;

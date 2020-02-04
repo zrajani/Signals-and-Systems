@@ -1,23 +1,19 @@
 %DECOMPOSITION OF GIVEN SIGNAL INTO ODD AND EVEN SIGNAL  
 
   
-
+%Initialisation of screen 
 close all; 
-
 clear all; 
-
 clc; 
 
   
 
 %ORIGINAL SIGNAL 
 
-  
-
 n=0:1:8; 
-
 x=[1 1 2 2 0 1 2 1 2]; 
 
+% Signal Plot
 subplot(3,2,1); 
 
 stem(n,x); 

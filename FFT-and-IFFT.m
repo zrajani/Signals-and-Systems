@@ -12,7 +12,7 @@ N = length(x);
 for k = 1:N
 y(k) = 0;
 for n = 1:N
-y(k) = y(k)+x(n)*exp(-1i*2*pi*(k-1)*(n-1)/N);
+y(k) = y(k)+x(n)*exp(-1i*2*pi*(k-1)*(n-1)/N);  % Replace your sequence equation here
 end
 end
  

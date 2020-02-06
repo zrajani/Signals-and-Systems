@@ -1,5 +1,6 @@
 % Author: Zain Rajani
 
+%Code Description: Finding the FFT and IFFT for a given sequence 
 
 %Initialise
 clc;

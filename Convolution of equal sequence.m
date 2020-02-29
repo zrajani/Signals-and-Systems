@@ -1,5 +1,7 @@
 % Program Description: Convolution of Equal Sequence length 
 
+%Author: Zain Rajani 
+
 % Program Intialisation
 clear all;
 close all;

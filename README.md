@@ -2,5 +2,7 @@
 Basic Concepts of Signals and System using MATLAB R2013b.
 This repository deals with basic plotting of signals and building of filters
 
-Also I plan to do some discrete Fourier Transform, Inverse Fourier Transform, etc.
+It has programs relating to:
 
+1. Odd and even Signal
+2. DFT and IDFT (Signal Value and Audio Sigal)

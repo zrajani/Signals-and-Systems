@@ -1,4 +1,7 @@
-%DECOMPOSITION OF GIVEN SIGNAL INTO ODD AND EVEN SIGNAL  
+
+% Author: Zain Rajani
+
+% Decomposition (Splitting) Signals into even and odd components 
 
   
 %Initialisation of screen 

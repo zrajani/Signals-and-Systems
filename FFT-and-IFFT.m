@@ -1,10 +1,11 @@
 % Author: Zain Rajani
 
-%Code Description: Finding the FFT and IFFT for a given sequence 
+% Code Description: Finding the FFT and IFFT for a given sequence 
 
-%Initialise
+% Initialise
 clc;
 clear all;
+close all;
  
 %code block to find FFT of a sequence 
 x = [1 2 3 4];

@@ -7,7 +7,7 @@ clc;
 clear all;
 close all;
  
-%code block to find FFT of a sequence 
+%code block to find FFT of a sequence (Loop Sequence)
 x = [1 2 3 4];
 N = length(x);
 for k = 1:N

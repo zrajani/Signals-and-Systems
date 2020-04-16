@@ -9,7 +9,7 @@ clc;
 n=0:1:5;
 x=[1 4 2 2 1 3];
 h=[4 2 1 3 4 1];
-figure
+figure;
  
 %Plot x[n]
 subplot(2,2,1)

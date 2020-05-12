@@ -11,7 +11,7 @@ close all;
 clc;
  
 %Loads the audio file 
-x=load('chirp.mat');
+x=load('chirp.mat'); %Could be replaced by any other file
 x1=x.y;
 n=1:1024;
  

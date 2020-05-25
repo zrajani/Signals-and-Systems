@@ -33,7 +33,6 @@ grid on;
 
 %FOLDED SIGNAL 
 
-  
 
 y=fliplr(x); 
 

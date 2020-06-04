@@ -34,7 +34,7 @@ grid on;
 %FOLDED SIGNAL 
 
 
-y=fliplr(x); 
+y=fliplr(x);    % Flip Right Signal Command 
 
 n=0:1:8; 
 
